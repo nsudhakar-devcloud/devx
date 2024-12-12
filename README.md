@@ -1,2 +1,2 @@
 # devx
-simply the app emigration 
+simplify the app emigration 
